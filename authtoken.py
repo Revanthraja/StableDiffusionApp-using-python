@@ -1,1 +1,1 @@
-auth_token = "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"
+auth_token = "YOUR_API KEY"
